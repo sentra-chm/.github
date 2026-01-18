@@ -38,8 +38,8 @@ All commands must be written without "[]" and "{}".__
 ``• /warn reply or @{username} — warns the user.``  
 ``• /rw reply or @{username} — removes all warns from the user.``  
 ``• /del {number} — deletes the specified number of recent messages, including your message with the command itself. Example: /del 5.``  
-``• /lang — quick language change``  
-``• /menu — the bot's main menu``  
+``• /lang — quick language change.``  
+``• /menu — the bot's main menu.``  
 </details>
 
 
@@ -82,5 +82,5 @@ All commands must be written without "[]" and "{}".__
 ``• /warn ответом или @{имя пользователя} — выдает варн пользователю.``  
 ``• /rw ответом или @{имя пользователя} — снимает все варны с пользователя.``  
 ``• /del {число} — удаляет указанное количество последних сообщений, включая ваше сообщение с самой командой. Пример: /del 5.``  
-``• /lang — быстрая смена языка``  
-``• /menu — главное меню бота``
+``• /lang — быстрая смена языка.``  
+``• /menu — главное меню бота.``
